@@ -8,4 +8,5 @@ The names Matthew Peck-Deloughry Aka Dr DinoMight, I'm a developer for the brill
 
 📫 How to reach me?
  - Catch me on Twitter - <a href="https://twitter.com/Dr_DinoMight">@Dr_DinoMight</a>
+ - Catch me on Mastadon - <a rel="me" href="https://phpc.social/@DrDinoMight">@DrDinoMight@phpc.social</a>
  - Catch me on my streams - <a href="https://www.twitch.tv/dr_DinoMight">Dr_DinoMight</a>
