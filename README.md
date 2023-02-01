@@ -7,5 +7,5 @@ The names Matthew Peck-Deloughry Aka Dr DinoMight, I'm a developer for the brill
 🔭 I'm currently a Moderator on both Twitch and Discord for <a href="https://www.twitch.tv/whitep4nth3r">whiteP4nth3r</a> and <a href="https://www.twitch.tv/PixelogicDev">PixelogicDev</a>.
 
 📫 How to reach me?
- - Catch me on Mastadon - <a rel="me" href="https://phpc.social/@DrDinoMight">@DrDinoMight@phpc.social</a>
+ - Catch me on Mastadon - <a rel="me" href="https://phpc.social/@DrDinoMight">@DrDinoMight</a>
  - Catch me on my streams - <a href="https://www.twitch.tv/dr_DinoMight">Dr_DinoMight</a>
